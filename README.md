@@ -1,8 +1,8 @@
 Original Authors: 
-Kurose
-cboehmsmith (Catherine)
-jack-robs
-ZakHussain
+Kurose  
+cboehmsmith (Catherine)  
+jack-robs  
+ZakHussain  
 
 # Changes Underway: 
 ZakHussain 9/15/2020
