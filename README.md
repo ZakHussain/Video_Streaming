@@ -1,3 +1,13 @@
+Original Authors: 
+Kurose
+cboehmsmith (Catherine)
+jack-robs
+ZakHussain
+
+# Changes Underway: 
+ZakHussain 9/15/2020
+I will be updating this code base to work on an embedded system, and stream content over multiple devices.
+
 # pythonLiveStream
 Live Streaming, Python
 
